@@ -1,0 +1,27 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.payease.properties.GirlProperties",
+      "name": "girl",
+      "type": "com.payease.properties.GirlProperties"
+    },
+    {
+      "sourceType": "com.payease.config.RedisPropertiesqq",
+      "name": "spring.redis",
+      "type": "com.payease.config.RedisPropertiesqq"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.payease.properties.GirlProperties",
+      "name": "girl.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.payease.properties.GirlProperties",
+      "name": "girl.cup-size",
+      "type": "java.lang.String"
+    }
+  ]
+}
